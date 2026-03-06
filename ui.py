@@ -29,7 +29,7 @@ def input_non_negative_int(prompt: str) -> int:
 
 def input_position(prompt: str) -> str:
     while True:
-        pos = input(prompt).upper()
+        pos = input(prompt).upper().strip()
         if pos in POSITIONS:
             return pos
         print(f"Invalid position. Valid positions: {', '.join(POSITIONS)}")
