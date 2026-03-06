@@ -66,7 +66,6 @@ class Lineup:
         self._players[index].at_bats = at_bats
         self._players[index].hits = hits
 
-
 # ---------- Converters between dicts (for db) and objects ----------
 
 def lineup_from_dicts(player_dicts: List[Dict[str, object]]) -> Lineup:
