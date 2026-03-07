@@ -107,7 +107,7 @@ C, 1B, 2B, 3B, SS, LF, CF, RF, P
 
 A video explanation of the project, including code walkthrough and program demonstration, is available here:
 
-**YouTube Link:** *(Add your video link here)*
+**YouTube Link:** *(https://youtu.be/oMGWMEjM8lw)
 
 ---
 
